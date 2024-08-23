@@ -1,0 +1,35 @@
+
+*{
+    .cinzel-<uniquifier> {
+        font-family: "Cinzel", serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+      }
+      }
+
+      h4{
+        text-align: center;
+      }
+      .card{
+        background-color:rgba(239, 211, 32, 0.507);
+      }
+      .card :hover{
+        scale: 1.05;
+      }
+      .read{
+        font-size: larger;
+      }
+      .para{
+        font-size:larger;
+        font-weight: 500;
+      }
+      .seller{
+        background-image: url(./slide.jpg);
+        background-size: cover
+      }
+      .full{
+        background-image:url(./pearl.jpg);
+        background-position: fixed;
+        background-size: cover;
+      }
